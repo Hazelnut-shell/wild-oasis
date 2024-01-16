@@ -1,10 +1,10 @@
-# View app deployed on [Netlify](https://cheerful-snickerdoodle-071150.netlify.app)
+# View app deployed on [Netlify](https://cheerful-snickerdoodle-071150.netlify.app "wild oasis app")
 
 # Built with Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 # Frontend
-libraries: 
+Libraries: 
 - React
 - React Router
 - React Query
