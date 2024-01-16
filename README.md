@@ -1,8 +1,32 @@
-# React + Vite
+# View app deployed on [Netlify](https://cheerful-snickerdoodle-071150.netlify.app)
 
+# Built with Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Frontend
+libraries: 
+- React
+- React Router
+- React Query
+- React Hook Form
+- CSS styles: styled components
+- ...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React patterns:
+- custom hooks
+- render props pattern
+- compound component pattern
+- ...
+
+Features:
+- CRUD operations
+- client-side / server-side data filtering, sorting and pagination (including pre-fetching)
+- image uploading
+- authentication
+- dark mode
+- charts
+- error handling
+- ...
+
+# Backend
+Supabase backend API
