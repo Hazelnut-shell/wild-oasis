@@ -30,3 +30,6 @@ Features:
 
 # Backend
 Supabase backend API
+
+# Storage
+Supabase
