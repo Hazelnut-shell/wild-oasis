@@ -9,6 +9,7 @@ Libraries:
 - React Router
 - React Query
 - React Hook Form
+- Recharts
 - CSS styles: styled components
 - ...
 
